@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/palindrome-number
+# https://leetcode.com/problems/palindrome-number
 
 # @param {Integer} x
 # @return {Boolean}

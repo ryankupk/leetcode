@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/smallest-string-starting-from-leaf
+# https://leetcode.com/problems/smallest-string-starting-from-leaf
 
 # Definition for a binary tree node.
 # class TreeNode
