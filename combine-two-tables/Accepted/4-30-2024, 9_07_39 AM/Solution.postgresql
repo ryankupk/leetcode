@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/combine-two-tables
+-- https://leetcode.com/problems/combine-two-tables
 
 -- Write your PostgreSQL query statement below
 select p.firstName, p.lastName, a.city, a.state from Person p

@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/department-highest-salary
+-- https://leetcode.com/problems/department-highest-salary
 
 -- Write your PostgreSQL query statement below
 select d.name as Department, e.name as Employee, e.salary as Salary

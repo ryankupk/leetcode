@@ -9,6 +9,12 @@ replace_comment() {
             sed -i '1s|//|#|' "$file"
         fi
     fi
+    if [[ "$file" == *.postgresql ]]; then
+        first_line=$(head -n 1 "$file")
+        if [[ "$first_line" == //* ]]; then
+            sed -i '1s|//|--|' "$file"
+        fi
+    fi
 }
 
 # Recursively process files in the current directory and subdirectories

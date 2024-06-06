@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/employees-earning-more-than-their-managers
+-- https://leetcode.com/problems/employees-earning-more-than-their-managers
 
 -- Write your PostgreSQL query statement below
 select e1.name as Employee from employee e1

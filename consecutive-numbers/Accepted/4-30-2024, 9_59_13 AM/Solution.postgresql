@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/consecutive-numbers
+-- https://leetcode.com/problems/consecutive-numbers
 
 -- Write your PostgreSQL query statement below
 SELECT DISTINCT l1.num AS ConsecutiveNums
