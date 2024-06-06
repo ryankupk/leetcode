@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target
+# https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target
 
 class Solution:
     def countPairs(self, nums: List[int], target: int) -> int:

@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/maximum-score-words-formed-by-letters
+# https://leetcode.com/problems/maximum-score-words-formed-by-letters
 
 class Solution:
     def maxScoreWords(self, words: List[str], letters: List[str], score: List[int]) -> int:

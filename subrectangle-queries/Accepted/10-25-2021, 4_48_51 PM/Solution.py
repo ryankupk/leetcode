@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/subrectangle-queries
+# https://leetcode.com/problems/subrectangle-queries
 
 class SubrectangleQueries:
 

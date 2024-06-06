@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/root-equals-sum-of-children
+# https://leetcode.com/problems/root-equals-sum-of-children
 
 # Definition for a binary tree node.
 # class TreeNode:

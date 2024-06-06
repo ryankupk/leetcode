@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/score-of-a-string
+# https://leetcode.com/problems/score-of-a-string
 
 class Solution:
     def scoreOfString(self, s: str) -> int:

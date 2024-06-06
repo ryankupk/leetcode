@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/permutations
+# https://leetcode.com/problems/permutations
 
 from itertools import permutations
 class Solution:

@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/ugly-number-ii
+# https://leetcode.com/problems/ugly-number-ii
 
 class Solution:
     def prime_factors(self, n):

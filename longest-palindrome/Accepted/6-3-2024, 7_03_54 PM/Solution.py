@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/longest-palindrome
+# https://leetcode.com/problems/longest-palindrome
 
 from collections import Counter
 class Solution:

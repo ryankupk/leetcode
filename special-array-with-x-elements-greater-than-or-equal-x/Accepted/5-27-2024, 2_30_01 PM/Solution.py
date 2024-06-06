@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x
+# https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x
 
 from collections import Counter
 class Solution:

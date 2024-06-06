@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/longest-common-prefix
+# https://leetcode.com/problems/longest-common-prefix
 
 from functools import reduce
 class Solution:

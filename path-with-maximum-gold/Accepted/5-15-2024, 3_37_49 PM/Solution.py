@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/path-with-maximum-gold
+# https://leetcode.com/problems/path-with-maximum-gold
 
 class Solution:
     def path_value(self, grid, row, col, visited):

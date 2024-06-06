@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/the-number-of-beautiful-subsets
+# https://leetcode.com/problems/the-number-of-beautiful-subsets
 
 from functools import reduce
 class Solution:

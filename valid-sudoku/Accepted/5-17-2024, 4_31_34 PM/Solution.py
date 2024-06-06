@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/valid-sudoku
+# https://leetcode.com/problems/valid-sudoku
 
 from collections import Counter, defaultdict
 class Solution:

@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/count-and-say
+# https://leetcode.com/problems/count-and-say
 
 class Solution:
     # n = 1: return 1 is the base case

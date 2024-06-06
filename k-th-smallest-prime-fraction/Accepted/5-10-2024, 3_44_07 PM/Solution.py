@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/k-th-smallest-prime-fraction
+# https://leetcode.com/problems/k-th-smallest-prime-fraction
 
 class Solution(object):
     def kthSmallestPrimeFraction(self, arr, k):

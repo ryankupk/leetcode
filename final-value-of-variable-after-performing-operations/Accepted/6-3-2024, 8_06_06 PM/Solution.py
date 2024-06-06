@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/final-value-of-variable-after-performing-operations
+# https://leetcode.com/problems/final-value-of-variable-after-performing-operations
 
 class Solution:
     def finalValueAfterOperations(self, operations: List[str]) -> int:

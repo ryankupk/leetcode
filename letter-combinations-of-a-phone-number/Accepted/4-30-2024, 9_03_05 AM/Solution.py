@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/letter-combinations-of-a-phone-number
+# https://leetcode.com/problems/letter-combinations-of-a-phone-number
 
 from itertools import permutations
 from functools import reduce

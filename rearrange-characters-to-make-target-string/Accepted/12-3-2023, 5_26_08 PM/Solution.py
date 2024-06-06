@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/rearrange-characters-to-make-target-string
+# https://leetcode.com/problems/rearrange-characters-to-make-target-string
 
 from collections import Counter
 from math import floor

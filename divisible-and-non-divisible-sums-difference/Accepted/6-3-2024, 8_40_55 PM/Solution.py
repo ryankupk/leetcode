@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/divisible-and-non-divisible-sums-difference
+# https://leetcode.com/problems/divisible-and-non-divisible-sums-difference
 
 class Solution:
     def differenceOfSums(self, n: int, m: int) -> int:

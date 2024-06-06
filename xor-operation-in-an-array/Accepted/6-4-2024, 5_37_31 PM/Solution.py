@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/xor-operation-in-an-array
+# https://leetcode.com/problems/xor-operation-in-an-array
 
 from functools import reduce
 class Solution:

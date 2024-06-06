@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/convert-the-temperature
+# https://leetcode.com/problems/convert-the-temperature
 
 class Solution:
     def convertTemperature(self, celsius: float) -> List[float]:

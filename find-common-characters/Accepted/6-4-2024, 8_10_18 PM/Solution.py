@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/find-common-characters
+# https://leetcode.com/problems/find-common-characters
 
 from functools import reduce
 from collections import Counter, defaultdict

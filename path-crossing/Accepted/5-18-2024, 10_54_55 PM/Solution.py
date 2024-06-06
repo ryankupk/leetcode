@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/path-crossing
+# https://leetcode.com/problems/path-crossing
 
 from copy import copy
 class Solution:

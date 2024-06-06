@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/find-the-number-of-good-pairs-i
+# https://leetcode.com/problems/find-the-number-of-good-pairs-i
 
 class Solution:
     def numberOfPairs(self, nums1: List[int], nums2: List[int], k: int) -> int:
