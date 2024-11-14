@@ -18,19 +18,22 @@ func f(s string) int {
 	}
 	return -1
 }
+
 func numSmallerByFrequency(queries []string, words []string) []int {
 	largestWord := -1
 	for _, word := range words {
 		largestWord = max(largestWord, len(word))
 	}
+
 	wordFs := make([]int, largestWord+1)
+
 	for _, word := range words {
 		wordF := f(word)
 		for i := 0; i < wordF; i++ {
 			wordFs[i]++
 		}
 	}
-	fmt.Println(wordFs)
+
 	res := make([]int, len(queries))
 	for i, query := range queries {
 		res[i] = wordFs[f(query)]
